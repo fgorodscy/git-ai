@@ -1,1 +1,1 @@
-print('Rebase Conflict another change from rebase branch')
+print('Feature: Rebase Conflict Feature Change')
